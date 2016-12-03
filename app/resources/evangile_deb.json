@@ -1,0 +1,2099 @@
+{
+    "name": "evangile_deb",
+    "title": "Evangile niveau débutant",
+    "slide": [
+      {
+        "name": "ed1",
+        "text": "Je suis la mère de Jésus. Quel est mon nom ?",
+        "choice": [
+          {
+            "text": "Marthe",
+            "answer": "false"
+          },
+          {
+            "text": "Marie-Madeleine",
+            "answer": "false"
+          },
+          {
+            "text": "Marie",
+            "answer": "true"
+          },
+          {
+            "text": "Elisabeth",
+            "answer": "false"
+          }
+        ],
+        "comment": "Marie fut l'objet de la faveur divine: par l'opération du Saint Esprit elle enfanta Jésus."
+      },
+      {
+        "name": "ed2",
+        "text": "Quel est le premier livre du Nouveau Testament ?",
+        "choice": [
+          {
+            "text": "L'évangile de Marc",
+            "answer": "false"
+          },
+          {
+            "text": "Les Actes des Apôtres",
+            "answer": "false"
+          },
+          {
+            "text": "L'épître aux Romains",
+            "answer": "false"
+          },
+          {
+            "text": "L'évangile de Matthieu",
+            "answer": "true"
+          }
+        ],
+        "comment": "Les 28 chapitres de cet évangile ont été rédigés entre l'an 60 et l'an 70."
+      },
+      {
+        "name": "ed3",
+        "text": "Qui a trahi Jésus ?",
+        "choice": [
+          {
+            "text": "Jacques, fils de Zébédée",
+            "answer": "false"
+          },
+          {
+            "text": "Judas Iscariote",
+            "answer": "true"
+          },
+          {
+            "text": "André, frère de Simon",
+            "answer": "false"
+          },
+          {
+            "text": "Zacharie",
+            "answer": "false"
+          }
+        ],
+        "comment": "Après avoir reçu trente pièces d'argent pour le prix de sa trahison, il se pendit. Mt 27:3"
+      },
+      {
+        "name": "ed4",
+        "text": "Dans quelle ville de Palestine Jésus est-il né ?",
+        "choice": [
+          {
+            "text": "Bethléem",
+            "answer": "true"
+          },
+          {
+            "text": "Jérusalem",
+            "answer": "false"
+          },
+          {
+            "text": "Nazareth",
+            "answer": "false"
+          },
+          {
+            "text": "Jéricho",
+            "answer": "false"
+          }
+        ],
+        "comment": "Le roi David y était né, et Jésus est de la descendance de David."
+      },
+      {
+        "name": "ed5",
+        "text": "Frère de Marie et de Marthe, il fut ressuscité par Jésus. Qui est-ce ?",
+        "choice": [
+          {
+            "text": "Lazare le mendiant",
+            "answer": "false"
+          },
+          {
+            "text": "Eléazar",
+            "answer": "false"
+          },
+          {
+            "text": "Lazare de Béthanie",
+            "answer": "true"
+          },
+          {
+            "text": "Laban",
+            "answer": "false"
+          }
+        ],
+        "comment": "Jésus dit : \" Lazare, sors ! \" ... Et Lazare sortit, vivant. Jn 11:1-44"
+      },
+      {
+        "name": "ed6",
+        "text": "Au début de son ministère, le diable vint tenter Jésus. Pendant combien de jours et de nuits avait-il jeûné dans le désert ?",
+        "choice": [
+          {
+            "text": "20",
+            "answer": "false"
+          },
+          {
+            "text": "30",
+            "answer": "false"
+          },
+          {
+            "text": "40",
+            "answer": "true"
+          },
+          {
+            "text": "60",
+            "answer": "false"
+          }
+        ],
+        "comment": "N'obtenant rien de lui, le diable le laissa et des anges vinrent servir Jésus. Mt 4"
+      },
+      {
+        "name": "ed7",
+        "text": "Avancée en âge, la femme de Zacharie enfanta un fils, par la grâce de Dieu. Comment se nomme-t-elle ?",
+        "choice": [
+          {
+            "text": "Sara",
+            "answer": "false"
+          },
+          {
+            "text": "Anne",
+            "answer": "false"
+          },
+          {
+            "text": "Élisabeth",
+            "answer": "true"
+          },
+          {
+            "text": "Rébecca",
+            "answer": "false"
+          }
+        ],
+        "comment": "Ses voisins et parents se réjouirent avec elle de cette grâce du Seigneur. Lc 1:57"
+      },
+      {
+        "name": "ed8",
+        "text": "Elisabeth, femme de Zacharie, enfanta un fils dans sa vieillesse. Qui est ce fils ?",
+        "choice": [
+          {
+            "text": "Jean, l'apôtre",
+            "answer": "false"
+          },
+          {
+            "text": "Jacques, l'apôtre",
+            "answer": "false"
+          },
+          {
+            "text": "Joseph",
+            "answer": "false"
+          },
+          {
+            "text": "Jean Baptiste",
+            "answer": "true"
+          }
+        ],
+        "comment": "Elisabeth était une parente de Marie, la mère de Jésus. (Lc 1:36)"
+      },
+      {
+        "name": "ed9",
+        "text": "Pourquoi Joseph se rendit-il à Bethléem juste avant la naissance de Jésus ?",
+        "choice": [
+          {
+            "text": "Pour fuir Hérode",
+            "answer": "false"
+          },
+          {
+            "text": "Pour s'inscrire au recensement",
+            "answer": "true"
+          },
+          {
+            "text": "Un ange le lui avait demandé",
+            "answer": "false"
+          },
+          {
+            "text": "Il avait suivi l'étoile",
+            "answer": "false"
+          }
+        ],
+        "comment": "Joseph se rendit dans cette ville parce qu'il était de la famille de David. Luc 2:1-5"
+      },
+      {
+        "name": "ed10",
+        "text": "Quel livre se trouve entre l'évangile de Matthieu et l'évangile de Luc ?",
+        "choice": [
+          {
+            "text": "L'évangile de Jean",
+            "answer": "false"
+          },
+          {
+            "text": "L'évangile de Marc",
+            "answer": "true"
+          },
+          {
+            "text": "Les Actes des Apôtres",
+            "answer": "false"
+          },
+          {
+            "text": "La lettre aux Romains",
+            "answer": "false"
+          }
+        ],
+        "comment": "Marc était compagnon de Pierre, dit-on. Il a écrit seize chapitres."
+      },
+      {
+        "name": "ed11",
+        "text": "A qui Jésus a-t-il dit : \" Avant que le coq chante aujourd'hui, tu auras dit trois fois que tu ne me connais pas.\" ?",
+        "choice": [
+          {
+            "text": "Barthélémy",
+            "answer": "false"
+          },
+          {
+            "text": "Thomas",
+            "answer": "false"
+          },
+          {
+            "text": "Pierre",
+            "answer": "true"
+          },
+          {
+            "text": "Jude",
+            "answer": "false"
+          }
+        ],
+        "comment": "Après le reniement de Pierre, Jésus le regarda. Pierre pleura amèrement. Lc 22:33-62"
+      },
+      {
+        "name": "ed12",
+        "text": "Joseph, le fiancé de Marie, voulait rompre secrètement avec elle, lorsqu'elle lui apprit qu'elle était enceinte. Pourquoi ne l'a-t-il pas fait ?",
+        "choice": [
+          {
+            "text": "Il était trop timide",
+            "answer": "false"
+          },
+          {
+            "text": "Sa famille ne voulait pas",
+            "answer": "false"
+          },
+          {
+            "text": "Les pleurs de Marie l'ont attendri",
+            "answer": "false"
+          },
+          {
+            "text": "Un ange a rassuré Joseph",
+            "answer": "true"
+          }
+        ],
+        "comment": "L'ange lui dit : \"N'aie pas peur de prendre Marie chez toi. Cet enfant vient de Dieu.\""
+      },
+      {
+        "name": "ed13",
+        "text": "Que signifie le nom : EMMANUEL ?",
+        "choice": [
+          {
+            "text": "Dieu donne",
+            "answer": "false"
+          },
+          {
+            "text": "Dieu avec nous",
+            "answer": "true"
+          },
+          {
+            "text": "Dieu aime",
+            "answer": "false"
+          },
+          {
+            "text": "Dieu est venu",
+            "answer": "false"
+          }
+        ],
+        "comment": "Voir l'évangile de Matthieu en 1:23"
+      },
+      {
+        "name": "ed14",
+        "text": "Qui a averti Joseph de quitter Bethléem et de fuir en Égypte, quand Hérode se préparait à faire massacrer tous les enfants de moins de deux ans ?",
+        "choice": [
+          {
+            "text": "Un ange du Seigneur",
+            "answer": "true"
+          },
+          {
+            "text": "Le frère de Joseph",
+            "answer": "false"
+          },
+          {
+            "text": "Les mages",
+            "answer": "false"
+          },
+          {
+            "text": "Les bergers",
+            "answer": "false"
+          }
+        ],
+        "comment": "Plus tard, après la mort d'Hérode, l'ange informa Joseph qu'il pouvait revenir. Mt 2:13"
+      },
+      {
+        "name": "ed15",
+        "text": "Vêtu d'un vêtement de poils de chameau, se nourrissant de sauterelles et de miel sauvage, il prêchait dans le désert de Judée. Qui est-ce ?",
+        "choice": [
+          {
+            "text": "Jean Baptiste",
+            "answer": "true"
+          },
+          {
+            "text": "Le prophète Jérémie",
+            "answer": "false"
+          },
+          {
+            "text": "Jean l'évangéliste",
+            "answer": "false"
+          },
+          {
+            "text": "Jésus",
+            "answer": "false"
+          }
+        ],
+        "comment": "Il demandait qu'on fasse pénitence, pour se préparer à la venue du Seigneur. (Mt 3)"
+      },
+      {
+        "name": "ed16",
+        "text": "Complétez: \"..... vos ennemis, ..... ceux qui vous maudissent, faites ...... à ceux qui vous haïssent et priez pour ceux qui vous maltraitent.\"",
+        "choice": [
+          {
+            "text": "Aimez, bénissez, du bien",
+            "answer": "true"
+          },
+          {
+            "text": "Respectez, priez pour, plaisir",
+            "answer": "false"
+          },
+          {
+            "text": "Pardonnez à, pardonnez à, du bien",
+            "answer": "false"
+          },
+          {
+            "text": "Ne méprisez pas, ni, du bien",
+            "answer": "false"
+          }
+        ],
+        "comment": "\"... Afin que vous soyez fils de votre Père qui est dans les cieux.\" Mt 5:44"
+      },
+      {
+        "name": "ed17",
+        "text": "Lorsque vous priez, ne soyez pas comme ..... qui aiment à prier debout dans les synagogues et au coin des rues, pour être vus des hommes.",
+        "choice": [
+          {
+            "text": "ceux-là",
+            "answer": "false"
+          },
+          {
+            "text": "les hypocrites",
+            "answer": "true"
+          },
+          {
+            "text": "les pharisiens",
+            "answer": "false"
+          },
+          {
+            "text": "les orgueilleux",
+            "answer": "false"
+          }
+        ],
+        "comment": "Jésus condamne le formalisme religieux. Mt 6:5"
+      },
+      {
+        "name": "ed18",
+        "text": "Dans l'histoire du roi et de son serviteur à qui il avait remis sa dette, comment punit-il ce serviteur de sa cruauté vis-à-vis d'un collègue ?",
+        "choice": [
+          {
+            "text": "Il le jeta en prison",
+            "answer": "false"
+          },
+          {
+            "text": "Il le livra au bourreau",
+            "answer": "true"
+          },
+          {
+            "text": "Il le fit fouetter",
+            "answer": "false"
+          },
+          {
+            "text": "Il le vendit, avec sa famille",
+            "answer": "false"
+          }
+        ],
+        "comment": "....... jusqu'à ce qu'il ait payé tout ce qu'il devait. Mt 18:34"
+      },
+      {
+        "name": "ed19",
+        "text": "Edifice religieux où les Juifs se réunissaient le jour du sabbat et les jours de fête, pour prier et pour lire et expliquer les textes de la Bible.",
+        "choice": [
+          {
+            "text": "Synagogue",
+            "answer": "true"
+          },
+          {
+            "text": "Temple",
+            "answer": "false"
+          },
+          {
+            "text": "Eglise",
+            "answer": "false"
+          },
+          {
+            "text": "Sanctuaire",
+            "answer": "false"
+          }
+        ],
+        "comment": "Il existe encore des synagogues de nos jours, où se réunissent les juifs croyants."
+      },
+      {
+        "name": "ed20",
+        "text": "Quel métier exerçait Joseph, le père de Jésus ? (Mt 13:55)",
+        "choice": [
+          {
+            "text": "Charpentier",
+            "answer": "true"
+          },
+          {
+            "text": "Forgeron",
+            "answer": "false"
+          },
+          {
+            "text": "Pêcheur",
+            "answer": "false"
+          },
+          {
+            "text": "Collecteur d'impôts",
+            "answer": "false"
+          }
+        ],
+        "comment": "Il n'est pas question de lui au moment de la crucifixion. On pense qu'il était déjà mort."
+      },
+      {
+        "name": "ed21",
+        "text": "A qui Jésus a-t-il dit : \" Ma maison sera appelée une maison de prière. Mais vous en faites une caverne de voleurs. \" ?",
+        "choice": [
+          {
+            "text": "Aux scribes de la synagogue",
+            "answer": "false"
+          },
+          {
+            "text": "Aux pharisiens",
+            "answer": "false"
+          },
+          {
+            "text": "Aux vendeurs de colombes",
+            "answer": "true"
+          },
+          {
+            "text": "Aux pickpockets",
+            "answer": "false"
+          }
+        ],
+        "comment": "Il chassa tous les vendeurs et les changeurs, et renversa leurs tables. Mt 21:13"
+      },
+      {
+        "name": "ed22",
+        "text": "\" Tout ce que vous voulez que les hommes fassent pour vous, faites-le de même pour eux. \" Qui a dit cela ?",
+        "choice": [
+          {
+            "text": "Jean Baptiste",
+            "answer": "false"
+          },
+          {
+            "text": "Jésus",
+            "answer": "true"
+          },
+          {
+            "text": "Jacques",
+            "answer": "false"
+          },
+          {
+            "text": "Paul",
+            "answer": "false"
+          }
+        ],
+        "comment": "C'est une des phrases de Jésus, dans le sermon sur la montagne. (Mt 7:12)"
+      },
+      {
+        "name": "ed23",
+        "text": "Judas livra Jésus à Caïphe. Pour combien de pièces d'argent ?",
+        "choice": [
+          {
+            "text": "30 pièces",
+            "answer": "true"
+          },
+          {
+            "text": "40 pièces",
+            "answer": "false"
+          },
+          {
+            "text": "50 pièces",
+            "answer": "false"
+          },
+          {
+            "text": "60 pièces",
+            "answer": "false"
+          }
+        ],
+        "comment": "Se rendant compte de son crime, Judas rendit les pièces et alla se pendre. (Mt 27:3-5)"
+      },
+      {
+        "name": "ed24",
+        "text": "Qui a dit : \" Si je ne vois dans ses mains la marque des clous et si je ne mets ma main dans son côté, je ne croirai pas. \" ?",
+        "choice": [
+          {
+            "text": "Thomas",
+            "answer": "true"
+          },
+          {
+            "text": "Pierre",
+            "answer": "false"
+          },
+          {
+            "text": "Jean",
+            "answer": "false"
+          },
+          {
+            "text": "André",
+            "answer": "false"
+          }
+        ],
+        "comment": "Quelques jours après, Jésus se présenta devant lui. Alors Thomas crut. Jn 20:24-29"
+      },
+      {
+        "name": "ed25",
+        "text": "Les mages dirent qu'ils avaient vu chez eux l'étoile annonçant la naissance du roi des Juifs. D'où venaient-ils ?",
+        "choice": [
+          {
+            "text": "Du Nord",
+            "answer": "false"
+          },
+          {
+            "text": "Du Sud",
+            "answer": "false"
+          },
+          {
+            "text": "De l'Orient",
+            "answer": "true"
+          },
+          {
+            "text": "De l'Occident",
+            "answer": "false"
+          }
+        ],
+        "comment": "L'étoile les guida jusqu'au-dessus de la maison où était Jésus. Mt 2:1-10"
+      },
+      {
+        "name": "ed26",
+        "text": "Où les dix jeunes filles de la parabole se rendaient-elles, avec leurs lampes ?",
+        "choice": [
+          {
+            "text": "À la rencontre de l'époux",
+            "answer": "true"
+          },
+          {
+            "text": "Voir leurs amoureux",
+            "answer": "false"
+          },
+          {
+            "text": "Chercher de l'huile",
+            "answer": "false"
+          },
+          {
+            "text": "Danser et faire la fête",
+            "answer": "false"
+          }
+        ],
+        "comment": "Cinq d'entre elles n'avaient plus d'huile, seules les autres entrèrent. Mt 25"
+      },
+      {
+        "name": "ed27",
+        "text": "Où se trouvait Pierre après l'arrestation de Jésus et pendant son procès devant le Sanhédrin ?",
+        "choice": [
+          {
+            "text": "Il était en fuite",
+            "answer": "false"
+          },
+          {
+            "text": "Il suivait tout de la cour",
+            "answer": "true"
+          },
+          {
+            "text": "Il se tenait à ses côtés",
+            "answer": "false"
+          },
+          {
+            "text": "Il était au Temple",
+            "answer": "false"
+          }
+        ],
+        "comment": "Il voulait passer inaperçu. Reconnu par une servante, il renia Jésus. Mt 26"
+      },
+      {
+        "name": "ed28",
+        "text": "Marie de Béthanie, ayant pris une livre de parfum de grand prix, le versa sur les pieds de Jésus. Avec quoi lui a-t-elle essuyé les pieds ?",
+        "choice": [
+          {
+            "text": "Sa robe",
+            "answer": "false"
+          },
+          {
+            "text": "Ses cheveux",
+            "answer": "true"
+          },
+          {
+            "text": "Un linge",
+            "answer": "false"
+          },
+          {
+            "text": "Son voile",
+            "answer": "false"
+          }
+        ],
+        "comment": "C'était un geste de vénération, un témoignage rendu à la grandeur du Messie. Jn 12"
+      },
+      {
+        "name": "ed29",
+        "text": "Sur quel animal Jésus fit-il son entrée à Jérusalem ?",
+        "choice": [
+          {
+            "text": "Un ânon",
+            "answer": "true"
+          },
+          {
+            "text": "Une ânesse",
+            "answer": "false"
+          },
+          {
+            "text": "Une mule",
+            "answer": "false"
+          },
+          {
+            "text": "Un cheval",
+            "answer": "false"
+          }
+        ],
+        "comment": "Les disciples amenèrent un ânon et une ânesse. Jésus monta sur l'ânon. (Mt 21:1-10)"
+      },
+      {
+        "name": "ed30",
+        "text": "Lors de l'arrestation de Jésus dans le jardin de Gethsémani, de quoi était armée la troupe envoyée par les chefs des prêtres et les anciens ?",
+        "choice": [
+          {
+            "text": "De pierres",
+            "answer": "false"
+          },
+          {
+            "text": "De fouets",
+            "answer": "false"
+          },
+          {
+            "text": "De couteaux",
+            "answer": "false"
+          },
+          {
+            "text": "De bâtons et d'épées",
+            "answer": "true"
+          }
+        ],
+        "comment": "Jésus leur dit : \" Vous êtes venus comme pour arrêter un brigand. \" Mt 26:55"
+      },
+      {
+        "name": "ed31",
+        "text": "\" Jusqu'à combien de fois pardonner à son frère ? \" demanda Pierre. Jésus lui répondit qu'il fallait pardonner .........",
+        "choice": [
+          {
+            "text": "... jusqu'à sept fois",
+            "answer": "false"
+          },
+          {
+            "text": "... jusqu'à dix-sept fois",
+            "answer": "false"
+          },
+          {
+            "text": "... jusqu'à soixante-dix-sept fois",
+            "answer": "false"
+          },
+          {
+            "text": "... jusqu'à 70 fois sept fois",
+            "answer": "true"
+          }
+        ],
+        "comment": "Il enseigna de pardonner à son frère de tout son coeur. Mt 18:21-22,35 Lc 17:4"
+      },
+      {
+        "name": "ed32",
+        "text": "Que fit le jeune homme riche après que Jésus lui eut demandé de vendre tout ce qu'il possédait, de le donner aux pauvres et de le suivre ?",
+        "choice": [
+          {
+            "text": "Il pleura et demanda pardon",
+            "answer": "false"
+          },
+          {
+            "text": "Il s'en alla tout triste",
+            "answer": "true"
+          },
+          {
+            "text": "Il vendit tout et suivit Jésus",
+            "answer": "false"
+          },
+          {
+            "text": "Il suivit Jésus malgré sa richesse",
+            "answer": "false"
+          }
+        ],
+        "comment": "Le jeune homme croyait qu'il observait les commandements ... Mt 19:16-22"
+      },
+      {
+        "name": "ed33",
+        "text": "Comment Jésus a-t-il guéri les deux aveugles de Jéricho ?",
+        "choice": [
+          {
+            "text": "Il les plongea dans l'eau",
+            "answer": "false"
+          },
+          {
+            "text": "Il leur imposa les mains",
+            "answer": "false"
+          },
+          {
+            "text": "Il pria son Père",
+            "answer": "false"
+          },
+          {
+            "text": "Il toucha leurs yeux",
+            "answer": "true"
+          }
+        ],
+        "comment": "Après leur guérison, ils suivirent Jésus. (Mt 20:29-34)"
+      },
+      {
+        "name": "ed34",
+        "text": "Par quel signe Judas Iscariote livra-t-il Jésus à la troupe envoyée par les chefs des prêtres et le conseil des anciens du peuple ?",
+        "choice": [
+          {
+            "text": "Il le pointa du doigt",
+            "answer": "false"
+          },
+          {
+            "text": "Il lui donna un baiser",
+            "answer": "true"
+          },
+          {
+            "text": "Il lui parla à l'oreille",
+            "answer": "false"
+          },
+          {
+            "text": "Il désigna ses vêtements",
+            "answer": "false"
+          }
+        ],
+        "comment": "Voir Mt 26:48"
+      },
+      {
+        "name": "ed35",
+        "text": "Quand Jésus entra à Jérusalem, il se dirigea vers le Temple de Dieu. Qu'y fit-il en arrivant ?",
+        "choice": [
+          {
+            "text": "Il y pria et prêcha",
+            "answer": "false"
+          },
+          {
+            "text": "Il chassa les vendeurs",
+            "answer": "true"
+          },
+          {
+            "text": "Il y lut la Bible",
+            "answer": "false"
+          },
+          {
+            "text": "Il discuta avec les prêtres",
+            "answer": "false"
+          }
+        ],
+        "comment": "Il criait : \"C'est la maison de Dieu et vous en avez fait une caverne de voleurs\".Mt 21:12"
+      },
+      {
+        "name": "ed36",
+        "text": "Dans la parabole des deux fils, que demandait le père à ses deux fils ?",
+        "choice": [
+          {
+            "text": "De garder le troupeau",
+            "answer": "false"
+          },
+          {
+            "text": "De travailler à la vigne",
+            "answer": "true"
+          },
+          {
+            "text": "De cultiver le jardin",
+            "answer": "false"
+          },
+          {
+            "text": "D'aller acheter à manger",
+            "answer": "false"
+          }
+        ],
+        "comment": "Le premier dit NON mais y alla. L'autre dit OUI, mais n'y alla pas. (Mt 21:28-31)"
+      },
+      {
+        "name": "ed37",
+        "text": "Le second fils a dit OUI et n'y est pas allé. Le premier avait dit NON, mais il y est allé. Lequel a fait la volonté de son père ?",
+        "choice": [
+          {
+            "text": "Le premier",
+            "answer": "true"
+          },
+          {
+            "text": "Le second",
+            "answer": "false"
+          },
+          {
+            "text": "Aucun des deux",
+            "answer": "false"
+          },
+          {
+            "text": "Tous les deux",
+            "answer": "false"
+          }
+        ],
+        "comment": "Après un refus, il a réfléchi et enfin il a obéi. Mt 21:28-31"
+      },
+      {
+        "name": "ed38",
+        "text": "Complétez : \"Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du St- Esprit. Enseignez-leur à observer..",
+        "choice": [
+          {
+            "text": "... les dix commandements. \"",
+            "answer": "false"
+          },
+          {
+            "text": "... la Loi de Moïse. \"",
+            "answer": "false"
+          },
+          {
+            "text": "... ce que je vous ai prescrit. \"",
+            "answer": "true"
+          },
+          {
+            "text": "... la tradition de vos pères. \"",
+            "answer": "false"
+          }
+        ],
+        "comment": "\"Et voici que je suis avec vous, tous les jours, jusqu'à la fin du monde.\" Mt 28:19-20"
+      },
+      {
+        "name": "ed39",
+        "text": "Dans la parabole, combien sont les jeunes filles qui attendent, avec leurs lampes, pour participer à la noce ? (Mt 25)",
+        "choice": [
+          {
+            "text": "Cinq",
+            "answer": "false"
+          },
+          {
+            "text": "Trois",
+            "answer": "false"
+          },
+          {
+            "text": "Dix",
+            "answer": "true"
+          },
+          {
+            "text": "Sept",
+            "answer": "false"
+          }
+        ],
+        "comment": "Cinq d'entre elles seulement avaient pensé à apporter de l'huile pour leurs lampes."
+      },
+      {
+        "name": "ed40",
+        "text": "Quelle était l'inscription que les soldats avaient mise au-dessus de la tête de Jésus crucifié ?",
+        "choice": [
+          {
+            "text": "Celui-ci est Jésus, roi des Juifs",
+            "answer": "true"
+          },
+          {
+            "text": "Roi des Israélites",
+            "answer": "false"
+          },
+          {
+            "text": "Jésus, roi d'Israël",
+            "answer": "false"
+          },
+          {
+            "text": "Une autre inscription",
+            "answer": "false"
+          }
+        ],
+        "comment": "Cette inscription avait été voulue par Pilate. Voir Mt 27:37"
+      },
+      {
+        "name": "ed41",
+        "text": "Qu'a proposé Pierre, quand il a vu Jésus transfiguré, sur la montagne, avec Moïse et Elie ?",
+        "choice": [
+          {
+            "text": "De préparer le repas",
+            "answer": "false"
+          },
+          {
+            "text": "De dresser trois tentes",
+            "answer": "true"
+          },
+          {
+            "text": "De cueillir des olives",
+            "answer": "false"
+          },
+          {
+            "text": "De prier avec eux",
+            "answer": "false"
+          }
+        ],
+        "comment": "Devant l'apparition de Moïse et Elie, Pierre était devenu nerveux ! Mt 17:4"
+      },
+      {
+        "name": "ed42",
+        "text": "Jésus dit : \" Si vous ne vous convertissez pas et si vous ne devenez ............... , vous n'entrerez pas dans le Royaume des Cieux. \"",
+        "choice": [
+          {
+            "text": "croyants",
+            "answer": "false"
+          },
+          {
+            "text": "chrétiens",
+            "answer": "false"
+          },
+          {
+            "text": "purs et sans péchés",
+            "answer": "false"
+          },
+          {
+            "text": "comme les petits enfants",
+            "answer": "true"
+          }
+        ],
+        "comment": "Il expliqua : ... c'est-à-dire humbles et confiants comme les petits enfants. Mt 18:3"
+      },
+      {
+        "name": "ed43",
+        "text": "Dans l'histoire du roi qui avait remis sa dette à son serviteur, que fit celui-ci à son compagnon qui lui devait cent deniers ?",
+        "choice": [
+          {
+            "text": "Il le fit fouetter",
+            "answer": "false"
+          },
+          {
+            "text": "Il lui confisqua son âne",
+            "answer": "false"
+          },
+          {
+            "text": "Il le fit mettre en prison",
+            "answer": "true"
+          },
+          {
+            "text": "Il lui remit sa dette",
+            "answer": "false"
+          }
+        ],
+        "comment": "Cet homme était dur. L'ayant appris, le roi le livra au bourreau. Mt 18"
+      },
+      {
+        "name": "ed44",
+        "text": "Devant la très grosse dette de son serviteur, comment le roi voulut-il d'abord se rembourser ? Qu'avait-il décidé de faire ?",
+        "choice": [
+          {
+            "text": "Le faire mettre en prison",
+            "answer": "false"
+          },
+          {
+            "text": "Le livrer au bourreau",
+            "answer": "false"
+          },
+          {
+            "text": "Le vendre, avec sa famille",
+            "answer": "true"
+          },
+          {
+            "text": "Le faire fouetter",
+            "answer": "false"
+          }
+        ],
+        "comment": "Mais le serviteur supplia, le roi en eut pitié et lui fit grâce. Mt 18:25"
+      },
+      {
+        "name": "ed45",
+        "text": "Nous connaissons la parabole de la brebis perdue. Combien y avait-il, en tout, de brebis dans cette histoire ? (Lc 15 ou Mt 18)",
+        "choice": [
+          {
+            "text": "99",
+            "answer": "false"
+          },
+          {
+            "text": "101",
+            "answer": "false"
+          },
+          {
+            "text": "100",
+            "answer": "true"
+          },
+          {
+            "text": "98",
+            "answer": "false"
+          }
+        ],
+        "comment": "\" Plus de joie dans le ciel pour un pécheur sauvé que pour 99 qui se croient justes. \""
+      },
+      {
+        "name": "ed46",
+        "text": "Zachée, l'homme qui avait grimpé dans un arbre pour voir Jésus, et qui le reçut avec joie dans sa maison était .....",
+        "choice": [
+          {
+            "text": "Gouverneur",
+            "answer": "false"
+          },
+          {
+            "text": "Officier romain",
+            "answer": "false"
+          },
+          {
+            "text": "Pharisien",
+            "answer": "false"
+          },
+          {
+            "text": "Chef des publicains",
+            "answer": "true"
+          }
+        ],
+        "comment": "Jésus lui dit : \" Aujourd'hui le salut est entré dans cette maison.\" Luc 19:9"
+      },
+      {
+        "name": "ed47",
+        "text": "Quel fut le premier miracle public de Jésus ?",
+        "choice": [
+          {
+            "text": "Il a guéri un paralytique",
+            "answer": "false"
+          },
+          {
+            "text": "Il a changé l'eau en vin à Cana",
+            "answer": "true"
+          },
+          {
+            "text": "Il a guéri un aveugle",
+            "answer": "false"
+          },
+          {
+            "text": "Il a calmé une tempête sur la mer",
+            "answer": "false"
+          }
+        ],
+        "comment": "Il n'y avait plus de vin pour la noce. Marie fit signe à Jésus... Jean 2"
+      },
+      {
+        "name": "ed48",
+        "text": "Qu'apportaient les mages venus adorer l'enfant Jésus ?",
+        "choice": [
+          {
+            "text": "Argent et or",
+            "answer": "false"
+          },
+          {
+            "text": "Myrrhe",
+            "answer": "false"
+          },
+          {
+            "text": "Or, encens et myrrhe",
+            "answer": "true"
+          },
+          {
+            "text": "Encens",
+            "answer": "false"
+          }
+        ],
+        "comment": "Guidés par l'étoile, ils entrèrent dans la maison et adorèrent le petit enfant. Mt 2:9-12"
+      },
+      {
+        "name": "ed49",
+        "text": "A qui Jésus a-t-il dit : \" Tu ne tenteras pas le Seigneur, ton Dieu. \" ?",
+        "choice": [
+          {
+            "text": "A Hérode",
+            "answer": "false"
+          },
+          {
+            "text": "A Judas Iscariote",
+            "answer": "false"
+          },
+          {
+            "text": "A Pilate",
+            "answer": "false"
+          },
+          {
+            "text": "A Satan, le diable",
+            "answer": "true"
+          }
+        ],
+        "comment": "Satan promettait richesse et gloire à Jésus s'il se prosternait et l'adorait. Mt 4:7"
+      },
+      {
+        "name": "ed50",
+        "text": "Jésus vint de Galilée se faire baptiser par Jean-Baptiste dans les eaux du Jourdain. Quel signe divin fut alors visible ?",
+        "choice": [
+          {
+            "text": "L'Esprit de Dieu descendit sur lui",
+            "answer": "true"
+          },
+          {
+            "text": "Son visage s'illumina",
+            "answer": "false"
+          },
+          {
+            "text": "Il marcha sur l'eau",
+            "answer": "false"
+          },
+          {
+            "text": "Une trompette se fit entendre",
+            "answer": "false"
+          }
+        ],
+        "comment": "L'Esprit descendit des cieux, comme une colombe, et l'on entendit une voix. Mt 3:13-17"
+      },
+      {
+        "name": "ed51",
+        "text": "\" Quand Jésus vit la foule, il gravit la montagne... \" dit l'évangile de Matthieu. Pourquoi ?",
+        "choice": [
+          {
+            "text": "Afin d'être mieux vu par la foule",
+            "answer": "true"
+          },
+          {
+            "text": "Pour prier tranquillement",
+            "answer": "false"
+          },
+          {
+            "text": "Afin de se protéger du soleil",
+            "answer": "false"
+          },
+          {
+            "text": "Afin de manger et dormir",
+            "answer": "false"
+          }
+        ],
+        "comment": "Une grande foule suivait Jésus. Il voulait être mieux vu et entendu. Mt 5"
+      },
+      {
+        "name": "ed52",
+        "text": "\" En priant, ne ...... pas de vaines paroles, comme les païens, qui s'imaginent qu'à force de paroles ils seront exaucés. Mt 6:7",
+        "choice": [
+          {
+            "text": "multipliez",
+            "answer": "true"
+          },
+          {
+            "text": "lancez",
+            "answer": "false"
+          },
+          {
+            "text": "vous contentez",
+            "answer": "false"
+          },
+          {
+            "text": "murmurez",
+            "answer": "false"
+          }
+        ],
+        "comment": "Par la suite, Jésus enseigne comment prier. \" Notre Père qui es aux cieux, ... \""
+      },
+      {
+        "name": "ed53",
+        "text": "Quel est le plus grand commandement de la Loi ?",
+        "choice": [
+          {
+            "text": "Tu n'auras pas d'autres dieux",
+            "answer": "false"
+          },
+          {
+            "text": "Tu ne tueras point",
+            "answer": "false"
+          },
+          {
+            "text": "Tu ne déroberas point",
+            "answer": "false"
+          },
+          {
+            "text": "Tu aimeras le Seigneur ton Dieu",
+            "answer": "true"
+          }
+        ],
+        "comment": ".... de tout ton coeur, de toute ton âme et de toute ta pensée. Mt 22:37"
+      },
+      {
+        "name": "ed54",
+        "text": "De qui Jésus a-t-il dit : \" Ils disent et ne font pas. Ils lient des fardeaux pesants et les mettent sur les épaules des hommes.\" ?",
+        "choice": [
+          {
+            "text": "Des disciples",
+            "answer": "false"
+          },
+          {
+            "text": "Des scribes et pharisiens",
+            "answer": "true"
+          },
+          {
+            "text": "Des Romains",
+            "answer": "false"
+          },
+          {
+            "text": "Des apôtres",
+            "answer": "false"
+          }
+        ],
+        "comment": "Jésus condamne l'hypocrisie des scribes et des pharisiens. Mt 23"
+      },
+      {
+        "name": "ed55",
+        "text": "Complétez. \" Cette bonne nouvelle sera prêchée dans le monde entier, pour servir de témoignage à toutes les nations. Alors ...... \"",
+        "choice": [
+          {
+            "text": "tous se convertiront",
+            "answer": "false"
+          },
+          {
+            "text": "le monde deviendra paisible",
+            "answer": "false"
+          },
+          {
+            "text": "viendra la fin",
+            "answer": "true"
+          },
+          {
+            "text": "il n'y aura plus de guerre",
+            "answer": "false"
+          }
+        ],
+        "comment": "Pour les signes de l'avènement du Christ et de la fin du monde, voir Mt 24."
+      },
+      {
+        "name": "ed56",
+        "text": "Lors de la transfiguration, quels personnages apparurent auprès de Jésus ?",
+        "choice": [
+          {
+            "text": "Abraham et Isaac",
+            "answer": "false"
+          },
+          {
+            "text": "David et Salomon",
+            "answer": "false"
+          },
+          {
+            "text": "Isaïe et Jérémie",
+            "answer": "false"
+          },
+          {
+            "text": "Élie et Moïse",
+            "answer": "true"
+          }
+        ],
+        "comment": "Les disciples présents furent terrorisés et se prosternèrent face contre terre. Mt 17:1-8"
+      },
+      {
+        "name": "ed57",
+        "text": "Après l'arrestation de Jésus par la troupe armée dans le jardin de Gethsémani, que firent les disciples ?",
+        "choice": [
+          {
+            "text": "Ils s'enfuirent",
+            "answer": "true"
+          },
+          {
+            "text": "Ils luttèrent contre la troupe",
+            "answer": "false"
+          },
+          {
+            "text": "Ils suivirent Jésus",
+            "answer": "false"
+          },
+          {
+            "text": "Ils s'en remirent à Dieu",
+            "answer": "false"
+          }
+        ],
+        "comment": "Un des disciples tenta de le défendre, mais Jésus l'en empêcha. Mt 26:56"
+      },
+      {
+        "name": "ed58",
+        "text": "Dans le jardin de Gethsémani, la nuit de son arrestation, pourquoi Jésus ne permit-il pas à ses disciples de le défendre ?",
+        "choice": [
+          {
+            "text": "Les disciples avaient fui",
+            "answer": "false"
+          },
+          {
+            "text": "Il défendait le pacifisme",
+            "answer": "false"
+          },
+          {
+            "text": "Les Ecritures devaient s'accomplir",
+            "answer": "true"
+          },
+          {
+            "text": "Pour un autre motif",
+            "answer": "false"
+          }
+        ],
+        "comment": "S'il l'avait voulu, Jésus aurait appelé à l'aide deux légions d'anges. Mt 26:54"
+      },
+      {
+        "name": "ed59",
+        "text": "Que signifie le nom de JESUS ?",
+        "choice": [
+          {
+            "text": "Dieu avec nous",
+            "answer": "false"
+          },
+          {
+            "text": "Dieu sauve",
+            "answer": "true"
+          },
+          {
+            "text": "Dieu est amour",
+            "answer": "false"
+          },
+          {
+            "text": "Dieu est le Créateur",
+            "answer": "false"
+          }
+        ],
+        "comment": "Le nom est tiré du grec IESOUS, à partir de l'hébreu JESHUA (Josué)."
+      },
+      {
+        "name": "ed60",
+        "text": "Que fit le gouverneur Pilate pour montrer qu'il serait innocent du sang de Jésus dont la foule réclamait la mort ?",
+        "choice": [
+          {
+            "text": "Il fit un discours",
+            "answer": "false"
+          },
+          {
+            "text": "Il présenta ses excuses",
+            "answer": "false"
+          },
+          {
+            "text": "Il quitta son tribunal",
+            "answer": "false"
+          },
+          {
+            "text": "Il se lava les mains devant eux",
+            "answer": "true"
+          }
+        ],
+        "comment": "Il écoutait sa femme, qui avait eu un songe au sujet de Jésus. Mt 27:19-25"
+      },
+      {
+        "name": "ed61",
+        "text": "Quel est le nom hébreu du lieu où Jésus et les deux brigands furent crucifiés ?",
+        "choice": [
+          {
+            "text": "Goath",
+            "answer": "false"
+          },
+          {
+            "text": "Sinaï",
+            "answer": "false"
+          },
+          {
+            "text": "Golgotha",
+            "answer": "true"
+          },
+          {
+            "text": "Gosen",
+            "answer": "false"
+          }
+        ],
+        "comment": "Le lieu est tout proche de Jérusalem. Golgotha = le crâne = Calvaire. Mt 27:33"
+      },
+      {
+        "name": "ed62",
+        "text": "Qui furent crucifiés aux côtés de Jésus sur le Golgotha ?",
+        "choice": [
+          {
+            "text": "Deux anciens disciples de Jésus",
+            "answer": "false"
+          },
+          {
+            "text": "Deux apôtres",
+            "answer": "false"
+          },
+          {
+            "text": "Barabbas et Samuel",
+            "answer": "false"
+          },
+          {
+            "text": "Deux brigands",
+            "answer": "true"
+          }
+        ],
+        "comment": "Ces deux hommes avaient commis des meurtres, pour résister aux Romains. Mt 27:38"
+      },
+      {
+        "name": "ed63",
+        "text": "Qui était près du tombeau de Jésus lorsque l'ange du Seigneur vint rouler la pierre de l'entrée du tombeau ?",
+        "choice": [
+          {
+            "text": "Pierre et André",
+            "answer": "false"
+          },
+          {
+            "text": "Jean et Marie mère de Jésus",
+            "answer": "false"
+          },
+          {
+            "text": "Cléophas et Salomé",
+            "answer": "false"
+          },
+          {
+            "text": "Marie de Magdala et l'autre Marie",
+            "answer": "true"
+          }
+        ],
+        "comment": "Voir Mt 28:1"
+      },
+      {
+        "name": "ed64",
+        "text": "Que signifie le mot ALLELUIA ?",
+        "choice": [
+          {
+            "text": "Que ta volonté soit faite !",
+            "answer": "false"
+          },
+          {
+            "text": "Pardonne-moi, mon Dieu !",
+            "answer": "false"
+          },
+          {
+            "text": "Dieu de grâce",
+            "answer": "false"
+          },
+          {
+            "text": "Dieu soit loué !",
+            "answer": "true"
+          }
+        ],
+        "comment": "Mot composé, employé par les auteurs des psaumes, pour inviter les croyants à louer Dieu."
+      },
+      {
+        "name": "ed65",
+        "text": "Combien de brigands furent crucifiés à côté de Jésus au mont Golgotha ?",
+        "choice": [
+          {
+            "text": "Un seul",
+            "answer": "false"
+          },
+          {
+            "text": "Deux",
+            "answer": "true"
+          },
+          {
+            "text": "Trois",
+            "answer": "false"
+          },
+          {
+            "text": "Quatre",
+            "answer": "false"
+          }
+        ],
+        "comment": "Un à sa droite, l'autre à sa gauche. Marc 15:27"
+      },
+      {
+        "name": "ed66",
+        "text": "Un lépreux vint près de Jésus. Emu, Jésus étendit la main et le guérit. Puis il le renvoya en lui recommandant ......",
+        "choice": [
+          {
+            "text": "de parler partout de ce miracle",
+            "answer": "false"
+          },
+          {
+            "text": "d'annoncer qu'il était le Christ",
+            "answer": "false"
+          },
+          {
+            "text": "de devenir son disciple",
+            "answer": "false"
+          },
+          {
+            "text": "de ne rien dire à personne",
+            "answer": "true"
+          }
+        ],
+        "comment": "En réalité, le lépreux l'annonça partout et Jésus dut se faire discret. Mc 1:40 ou Mt 8:1"
+      },
+      {
+        "name": "ed67",
+        "text": "A Capharnaüm, un grand nombre de personnes étaient assemblées dans une maison pour entendre Jésus. Quatre hommes arrivèrent avec un paralytique et...",
+        "choice": [
+          {
+            "text": "le poussèrent par la fenêtre",
+            "answer": "false"
+          },
+          {
+            "text": "un autre malade",
+            "answer": "false"
+          },
+          {
+            "text": "le descendirent par le toit",
+            "answer": "true"
+          },
+          {
+            "text": "cent deniers pour la guérison",
+            "answer": "false"
+          }
+        ],
+        "comment": "Jésus, voyant leur foi, dit: \" Lève-toi et marche ! \" Et l'homme fut guéri. Mc 2:3-12"
+      },
+      {
+        "name": "ed68",
+        "text": "Jésus se mit à table avec des publicains et des gens de mauvaise vie. Aux scribes et pharisiens outrés il dit : \" Je ne suis pas venu appeler ....\"",
+        "choice": [
+          {
+            "text": "des justes, mais des pécheurs",
+            "answer": "true"
+          },
+          {
+            "text": "des gens comme vous, les scribes",
+            "answer": "false"
+          },
+          {
+            "text": "ceux qui se croient parfaits",
+            "answer": "false"
+          },
+          {
+            "text": "les païens, mais les juifs",
+            "answer": "false"
+          }
+        ],
+        "comment": "Marc 2:15-17"
+      },
+      {
+        "name": "ed69",
+        "text": "Qu'arriva-t-il aux esprits impurs, nommés Légion, que Jésus chassa du possédé, et qui entrèrent dans les pourceaux ?",
+        "choice": [
+          {
+            "text": "Ils finirent noyés dans la mer",
+            "answer": "true"
+          },
+          {
+            "text": "Ils continuèrent à paître",
+            "answer": "false"
+          },
+          {
+            "text": "Ils furent abattus par leur maître",
+            "answer": "false"
+          },
+          {
+            "text": "Ils se dispersèrent en montagne",
+            "answer": "false"
+          }
+        ],
+        "comment": "Les pourceaux possédés descendirent les pentes abruptes et tombèrent à la mer. Marc 5:13"
+      },
+      {
+        "name": "ed70",
+        "text": "Salomé dansa et plut au roi Hérode. Il lui dit : \" Demande-moi ce que tu voudras et je te le donnerai. \" Qu'a-t-elle demandé ?",
+        "choice": [
+          {
+            "text": "La moitié du royaume",
+            "answer": "false"
+          },
+          {
+            "text": "De libérer Jean Baptiste",
+            "answer": "false"
+          },
+          {
+            "text": "La place d'Hérodiade, sa mère",
+            "answer": "false"
+          },
+          {
+            "text": "La tête de Jean Baptiste",
+            "answer": "true"
+          }
+        ],
+        "comment": "Hérodiade, la mère de Salomé, détestait Jean Baptiste et voulait le faire mourir. Mc 6:24"
+      },
+      {
+        "name": "ed71",
+        "text": "Complétez: \" Laissez venir à moi les petits enfants et ne les empêchez pas, car le royaume de Dieu est ......",
+        "choice": [
+          {
+            "text": "à eux. \"",
+            "answer": "false"
+          },
+          {
+            "text": "à ceux qui leur ressemblent. \"",
+            "answer": "true"
+          },
+          {
+            "text": "à la portée même du plus petit. \"",
+            "answer": "false"
+          },
+          {
+            "text": "à ceux qui les aiment. \"",
+            "answer": "false"
+          }
+        ],
+        "comment": "Marc 10:14"
+      },
+      {
+        "name": "ed72",
+        "text": "Complétez : \" Mais quiconque veut être grand parmi vous, qu'il soit ............... et quiconque veut être le premier qu'il soit au service de tous.",
+        "choice": [
+          {
+            "text": "votre conseiller",
+            "answer": "false"
+          },
+          {
+            "text": "vertueux en tout",
+            "answer": "false"
+          },
+          {
+            "text": "votre serviteur",
+            "answer": "true"
+          },
+          {
+            "text": "courtois et poli",
+            "answer": "false"
+          }
+        ],
+        "comment": "Marc 10:43-44"
+      },
+      {
+        "name": "ed73",
+        "text": "Jésus fatigué s'assit près du puits de Jacob. Une femme vint y puiser de l'eau et lui donna à boire. D'où venait-elle ?",
+        "choice": [
+          {
+            "text": "De Samarie",
+            "answer": "true"
+          },
+          {
+            "text": "De Galilée",
+            "answer": "false"
+          },
+          {
+            "text": "De Syrie",
+            "answer": "false"
+          },
+          {
+            "text": "De la Décapole",
+            "answer": "false"
+          }
+        ],
+        "comment": "Elle fut surprise car, d'habitude, les Juifs et les Samaritains ne se parlaient pas. Jn 4"
+      },
+      {
+        "name": "ed74",
+        "text": "Complétez : \" Dieu est Esprit et il faut que ceux qui l'adorent l'adorent .........",
+        "choice": [
+          {
+            "text": "en respectant tous les rites.\"",
+            "answer": "false"
+          },
+          {
+            "text": "en pratiquant de bonnes oeuvres.\"",
+            "answer": "false"
+          },
+          {
+            "text": "comme au temps d'Abraham.\"",
+            "answer": "false"
+          },
+          {
+            "text": "en esprit et en vérité.\"",
+            "answer": "true"
+          }
+        ],
+        "comment": "Parole de Jésus, en Jean 4:24."
+      },
+      {
+        "name": "ed75",
+        "text": "Dans la parabole du fils perdu, quels animaux le fils sans le sou doit-il garder ?",
+        "choice": [
+          {
+            "text": "Des ânes",
+            "answer": "false"
+          },
+          {
+            "text": "Des chevaux",
+            "answer": "false"
+          },
+          {
+            "text": "Des cochons",
+            "answer": "true"
+          },
+          {
+            "text": "Des volailles",
+            "answer": "false"
+          }
+        ],
+        "comment": "Les cochons avaient des caroubes à manger en abondance, et lui n'avait rien. Luc 15:15"
+      },
+      {
+        "name": "ed76",
+        "text": "En quittant Jérusalem, où se rendaient les deux disciples que Jésus accompagne sur la route, après sa résurrection ?",
+        "choice": [
+          {
+            "text": "Emmaüs",
+            "answer": "true"
+          },
+          {
+            "text": "Bethléem",
+            "answer": "false"
+          },
+          {
+            "text": "Jéricho",
+            "answer": "false"
+          },
+          {
+            "text": "Rama",
+            "answer": "false"
+          }
+        ],
+        "comment": "\" Reste avec nous, lui ont-ils demandé, car le soir approche... \" Luc 24:13"
+      },
+      {
+        "name": "ed77",
+        "text": "Combien de temps Marie resta-t-elle chez sa cousine Élisabeth, qui attendait un enfant ?",
+        "choice": [
+          {
+            "text": "Environ trois mois",
+            "answer": "true"
+          },
+          {
+            "text": "Quarante jours",
+            "answer": "false"
+          },
+          {
+            "text": "Une dizaine de jours",
+            "answer": "false"
+          },
+          {
+            "text": "Une semaine",
+            "answer": "false"
+          }
+        ],
+        "comment": "Marie demeura avec Elisabeth environ trois mois, puis elle retourna chez elle. Luc 1:56"
+      },
+      {
+        "name": "ed78",
+        "text": "Quel était le premier nom de Pierre ?",
+        "choice": [
+          {
+            "text": "Simon",
+            "answer": "true"
+          },
+          {
+            "text": "Zébédée",
+            "answer": "false"
+          },
+          {
+            "text": "André",
+            "answer": "false"
+          },
+          {
+            "text": "Samuel",
+            "answer": "false"
+          }
+        ],
+        "comment": "C'est Jésus qui lui donna le nom de Pierre. Mt 16:18 Mc 3:16"
+      },
+      {
+        "name": "ed79",
+        "text": "Parabole du bon samaritain : Les brigands ont laissé le blessé au bord de la route. Deux hommes passent sans lui porter secours ...",
+        "choice": [
+          {
+            "text": "Deux bergers",
+            "answer": "false"
+          },
+          {
+            "text": "Un prêtre juif et un lévite",
+            "answer": "true"
+          },
+          {
+            "text": "Deux soldats",
+            "answer": "false"
+          },
+          {
+            "text": "Un scribe et un marchand",
+            "answer": "false"
+          }
+        ],
+        "comment": "Ils ont vu le blessé, mais ils passent sans rien faire pour lui. Luc 10:30"
+      },
+      {
+        "name": "ed80",
+        "text": "Dans le désert, que répondit Jésus au diable qui lui proposait de changer des pierres en pains ? Mt 4",
+        "choice": [
+          {
+            "text": "Va-t-en Satan !",
+            "answer": "false"
+          },
+          {
+            "text": "Je fais confiance à mon Père.",
+            "answer": "false"
+          },
+          {
+            "text": "Je n'en ai pas le pouvoir.",
+            "answer": "false"
+          },
+          {
+            "text": "On ne vivra pas seulement de pain.",
+            "answer": "true"
+          }
+        ],
+        "comment": "L'homme ne vivra pas de pain seulement, mais de toute parole venant de la bouche de Dieu."
+      },
+      {
+        "name": "ed81",
+        "text": "Comment les mages avaient-ils appris la naissance de Jésus ?",
+        "choice": [
+          {
+            "text": "Par un messager d'Hérode.",
+            "answer": "false"
+          },
+          {
+            "text": "Ils avaient vu briller son étoile.",
+            "answer": "true"
+          },
+          {
+            "text": "Par des voyageurs.",
+            "answer": "false"
+          },
+          {
+            "text": "Dans un songe.",
+            "answer": "false"
+          }
+        ],
+        "comment": "Nous avons vu son étoile en Orient, et nous sommes venus l'adorer. Mt 2:2"
+      },
+      {
+        "name": "ed82",
+        "text": "Où Syméon prononça-t-il une bénédiction sur Jésus et sur ses parents ?",
+        "choice": [
+          {
+            "text": "Dans une maison de Bethléem",
+            "answer": "false"
+          },
+          {
+            "text": "Dans le Temple de Jérusalem",
+            "answer": "true"
+          },
+          {
+            "text": "Dans sa propre maison",
+            "answer": "false"
+          },
+          {
+            "text": "Au bord du Jourdain",
+            "answer": "false"
+          }
+        ],
+        "comment": "Le St-Esprit l'avait averti qu'il verrait le Christ avant de mourir. Luc 2:25"
+      },
+      {
+        "name": "ed83",
+        "text": "Quel est le nom de l'homme qui monta sur un arbre pour voir Jésus ?",
+        "choice": [
+          {
+            "text": "Jacques le petit",
+            "answer": "false"
+          },
+          {
+            "text": "Zébédée",
+            "answer": "false"
+          },
+          {
+            "text": "Zachée",
+            "answer": "true"
+          },
+          {
+            "text": "Jérémie",
+            "answer": "false"
+          }
+        ],
+        "comment": "Chef des publicains, il cherchait à voir qui était Jésus ? Luc 19:2"
+      },
+      {
+        "name": "ed84",
+        "text": "Quand Jésus demande d'ouvrir le tombeau de Lazare, quelle est l'objection de sa soeur Marthe ?",
+        "choice": [
+          {
+            "text": "Il sent déjà.",
+            "answer": "true"
+          },
+          {
+            "text": "La pierre est scellée.",
+            "answer": "false"
+          },
+          {
+            "text": "La loi l'interdit.",
+            "answer": "false"
+          },
+          {
+            "text": "Autre réponse",
+            "answer": "false"
+          }
+        ],
+        "comment": "Le tombeau était une grotte dont une pierre recouvrait l'entrée. Jean 11"
+      },
+      {
+        "name": "ed85",
+        "text": "En quelles langues Pilate avait-il écrit l'inscription qu'on posa au-dessus de la croix de Jésus ?",
+        "choice": [
+          {
+            "text": "Hébreu",
+            "answer": "false"
+          },
+          {
+            "text": "Latin",
+            "answer": "false"
+          },
+          {
+            "text": "Grec",
+            "answer": "false"
+          },
+          {
+            "text": "Les trois langues",
+            "answer": "true"
+          }
+        ],
+        "comment": "L'écriteau portait : Jésus de Nazareth, roi des Juifs. Jn 19:20"
+      },
+      {
+        "name": "ed86",
+        "text": "Le grand prêtre : Es-tu le Christ, le fils du Dieu béni ? -- Je le suis, répond Jésus. Que fait alors le grand prêtre ?",
+        "choice": [
+          {
+            "text": "Il déchire ses vêtements",
+            "answer": "false"
+          },
+          {
+            "text": "Il dit : c'est un blasphème !",
+            "answer": "false"
+          },
+          {
+            "text": "Il dit : cela mérite la mort.",
+            "answer": "false"
+          },
+          {
+            "text": "Tout cela...",
+            "answer": "true"
+          }
+        ],
+        "comment": "Qu'en pensez-vous ? -- Et tous comdamnent alors Jésus comme méritant la mort. Mc 14:53"
+      },
+      {
+        "name": "ed87",
+        "text": "Par quel cri de joie la foule salua-t-elle Jésus entrant triomphalement à Jérusalem ?",
+        "choice": [
+          {
+            "text": "Alléluia !",
+            "answer": "false"
+          },
+          {
+            "text": "Hip hip hip Hourra !",
+            "answer": "false"
+          },
+          {
+            "text": "Hosanna !",
+            "answer": "true"
+          },
+          {
+            "text": "autre cri",
+            "answer": "false"
+          }
+        ],
+        "comment": "Hosanna au plus haut des cieux ! Béni soit au nom du Seigneur celui qui vient. Mc 11:9"
+      },
+      {
+        "name": "ed88",
+        "text": "Où étaient partis les disciples quand Jésus rencontre la Samaritaine près du puits de Jacob ?",
+        "choice": [
+          {
+            "text": "Visiter un malade.",
+            "answer": "false"
+          },
+          {
+            "text": "Prier à la synagogue.",
+            "answer": "false"
+          },
+          {
+            "text": "Acheter de la nourriture.",
+            "answer": "true"
+          },
+          {
+            "text": "Autre occupation.",
+            "answer": "false"
+          }
+        ],
+        "comment": "Jésus, fatigué, s'était assis près du puits en les attendant. Jean 4"
+      },
+      {
+        "name": "ed89",
+        "text": "Qui sont les deux soeurs de Lazare, à Béthanie ?",
+        "choice": [
+          {
+            "text": "Marthe et Marie",
+            "answer": "true"
+          },
+          {
+            "text": "Miriam et Salomé",
+            "answer": "false"
+          },
+          {
+            "text": "Elisabeth et Suzanne",
+            "answer": "false"
+          },
+          {
+            "text": "Autres noms",
+            "answer": "false"
+          }
+        ],
+        "comment": "Lazare était le frère de Marthe et de Marie. Or il arriva que Lazare tombe malade. Jn 11"
+      },
+      {
+        "name": "ed90",
+        "text": "Pourquoi la Samaritaine était-elle venue près du puits de Jacob ?",
+        "choice": [
+          {
+            "text": "Pour se promener",
+            "answer": "false"
+          },
+          {
+            "text": "Pour chercher de l'eau",
+            "answer": "true"
+          },
+          {
+            "text": "Pour rencontrer une amie",
+            "answer": "false"
+          },
+          {
+            "text": "Pour une autre raison",
+            "answer": "false"
+          }
+        ],
+        "comment": "C'était autour de la 6ème heure. Jésus lui demanda : Donne-moi à boire ... Jean 4"
+      },
+      {
+        "name": "ed91",
+        "text": "Que font Moïse et Elie, apparus à côté de Jésus, transfiguré, sur la montagne ?",
+        "choice": [
+          {
+            "text": "Ils chantent la gloire de Dieu.",
+            "answer": "false"
+          },
+          {
+            "text": "Ils dansent.",
+            "answer": "false"
+          },
+          {
+            "text": "Ils parlent avec Jésus.",
+            "answer": "true"
+          },
+          {
+            "text": "En silence, ils regardent le ciel.",
+            "answer": "false"
+          }
+        ],
+        "comment": "Ils parlaient avec Jésus de son prochain départ... Luc 9:28-36"
+      }
+    ]
+  }

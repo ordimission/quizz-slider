@@ -1,0 +1,71 @@
+{
+    "title": "Ausweise",
+    "slide": [
+        {
+            "img": {
+                "src": "Images/Ausweise/HerzMitFragezeichen.jpg"
+            },
+            "text": ["'Wie kann ich denn wissen, dass das alles stimmt?', wollte Sarah wissen.", "'Kann man beweisen, dass Jesus wirklich Gottes Sohn ist?'", "Ich fragte sie: 'Kannst du beweisen, dass du Sarah bist?'"]
+        },
+        {
+            "img": {
+                "src": "Images/Ausweise/KG2B1.jpg"
+            },
+            "text": ["'Mit meinem Ausweis!', antwortete sie. 'Schade, dass Jesus keinen hat.'", "Sie wusste nicht, dass Jesus fünf Ausweise hat.", "'Er hat fünf Ausweise? Ist das wahr? Er hat fünf Ausweise? Ist das wahr?'"]
+        },
+        {
+            "img": {
+                "src": "Images/Ausweise/KG2B2.jpg"
+            },
+            "text": ["Den ersten Ausweis bekam Jesus von Gott. Bei seiner Taufe sprach eine Stimme vom Himmel: 'Das ist mein lieber Sohn, vertraut auf ihn.'"]
+        },
+        {
+            "img": {
+                "src": "Images/Ausweise/KG2B3.jpg"
+            },
+            "text": ["Der zweite Ausweis ist die Bibel. Denn alle Voraussagen über den Sohn Gottes haben sich in Jesus ganz genau erfüllt."]
+        },
+        {
+            "img": {
+                "src": "Images/Ausweise/KG2B4.jpg"
+            },
+            "text": ["Der dritte Ausweis für den Sohn Gottes ist seine Auferstehung. Er lebt. Er hat viele Zeugen."]
+        },
+        {
+            "img": {
+                "src": "Images/Ausweise/KG2B5.jpg"
+            },
+            "text": ["Und den vierten Ausweis haben ihm Menschen ausgestellt. Personen die ihn kannten, haben gesagt: 'Das ist wirklich Gottes Sohn.'", "Ein Ausweis fehlt noch."]
+        },
+        {
+            "img": {
+                "src": "Images/Ausweise/KG2B6.jpg"
+            },
+            "text": ["Komm mit, den zeige ich dir in Kana. Dort wird gerade eine Hochzeit gefeiert. Sieben Tage lang feiern die Einwohner mit dem Brautpaar. Jesus und seine Freunde sind auch eingeladen. Übrigens, die waren sich auch nicht immer sicher, dass Jesus der Sohn Gottes ist.", "Die Gäste sind fröhlich. Sie singen, tanzen, spielen, essen und trinken. Dann passiert es: Es ist kein Wein mehr da. Nichts mehr zu Trinken im Haus. Maria merkt es zuerst.", "Sie sagt es Jesus und er sagt zu den Dienern: 'Füllt die Tonkrüge bis an den Rand mit Wasser.'"]
+        },
+        {
+            "img": {
+                "src": "Images/Ausweise/KG2B7.jpg"
+            },
+            "text": ["600 Liter schleppen sie vom Brunnen herbei. Und jetzt?", "Jesus sagt nur: 'Bringt einen Becher voll zum Kellner, er soll probieren.' Der nimmt einen Schluck, probiert und läuft schnell zum Bräutigam.", "'Wo ist dieser Wein her?', will er wissen. 'Noch nie habe ich so einen guten Wein getrunken.'", "Jesus hat pures Wasser in besten Wein verwandelt!", "Das ist das erste Wunder, das er getan hat. Wunder sind ein Ausweis für den Sohn Gottes. Die Jünger sahen dieses Wunder und glaubten an Jesus.", "Fünf Ausweise für den Sohn Gottes. Mir genügen sie. Ich glaube an ihn. Und du?"]
+        },
+        {
+            "img": {
+                "src": "Images/Ausweise/KG2B8.jpg"
+            },
+            "text": ["Fünf Ausweise für den Sohn Gottes. Mir genügen sie. Ich glaube an ihn. Und du?"]
+        },
+        {
+            "img": {
+                "src": "Images/Ausweise/KG2B9.jpg"
+            },
+            "free": [{
+                    "text": "Warum wissen wir, dass Jesus Gottes Sohn ist?"
+                }, {
+                    "text": "Welchen Ausweis hältst du für den Wichtigsten?"
+                }, {
+                    "text": "Welchen Ausweis bekam Jesus bei der Hochzeit in Kana?"
+                }]
+        }
+    ]
+}
